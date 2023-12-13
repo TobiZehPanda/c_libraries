@@ -1,2 +1,2 @@
 # c_libraries
-Personal C Libraries
+Personal libraries for C programming.
